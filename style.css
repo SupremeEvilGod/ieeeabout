@@ -1,0 +1,41 @@
+
+        body, h1 {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header styles */
+        header {
+            background-color: #0074D9;
+            color: #FFFFFF; 
+            text-align: center;
+            padding:auto; 
+        }
+        body{
+            background-image: url(https://imgs.search.brave.com/ciNexaZV4aL1MNZ4TzOfy5W65GyoxgAqbTB-pMPQF8A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTAx/NjU1NTIyL3Bob3Rv/L3N0YXItZmllbGQt/YXQtbmlnaHQuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPS0x/Y3FjNEtMTnJETkpp/ajR3RGYtMGp3WG92/aE14ZnJWMXhfSTI0/Qi1vS2M9);
+        }
+
+        h2{
+            font-size: 100px;
+            margin-top: 20%;
+            margin-bottom: 20%;
+        }
+
+        /* Body styles */
+        .about-us {
+            color: white;
+            text-align: center;
+            margin: 50px auto;
+            max-width: 800px; 
+        }
+
+        /* Footer styles */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
